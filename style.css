@@ -1,0 +1,15 @@
+.container {
+width: 400px;
+height:200px ;
+  margin:10px ;
+   padding:10px ;
+
+}
+.card{
+    box-shadow: 5px 5px blue, 10px 10px red, 15px 15px green;
+width: 400px;
+height: 200px;
+border: 5px 
+
+
+}
